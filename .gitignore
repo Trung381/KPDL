@@ -1,0 +1,27 @@
+# Môi trường ảo
+.venv/
+env/
+venv/
+ENV/
+
+# Tệp byte-compiled / tệp được tối ưu / tệp DLL
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Phân phối / đóng gói
+dist/
+build/
+*.egg-info/
+
+# Tệp tạm thời khác
+.DS_Store
+.coverage
+htmlcov/
+.pytest_cache/
+.idea/
+.vscode/
+
+# Log và database
+*.log
+*.sqlite3 

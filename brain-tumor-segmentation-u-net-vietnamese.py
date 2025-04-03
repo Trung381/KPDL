@@ -43,7 +43,7 @@ Mask:
 """
 
 # Đường dẫn truy cập dữ liệu
-data_path = "../input/brain-tumor-segmentation-dataset/Brain Tumor Segmentation Dataset"
+data_path = "Brain Tumor Segmentation Dataset"
 classes = ['no_tumor', 'glioma_tumor', 'meningioma_tumor', 'pituitary_tumor']
 images = []
 masks = []
