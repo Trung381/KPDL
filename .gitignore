@@ -25,3 +25,7 @@ htmlcov/
 # Log và database
 *.log
 *.sqlite3 
+
+best_unetmodel.keras
+/Brain Tumor Segmentation Dataset
+/Brain Tumor MRI
